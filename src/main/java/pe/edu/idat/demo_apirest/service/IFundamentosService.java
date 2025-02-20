@@ -2,7 +2,7 @@ package pe.edu.idat.demo_apirest.service;
 
 import java.util.List;
 
-public interface iFundamentosService {
+public interface IFundamentosService {
 
     String validarNumeroPrimo(int numero);
 
